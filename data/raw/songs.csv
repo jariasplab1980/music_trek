@@ -1,0 +1,13 @@
+source_row_id,song_id,title,artist,genre,bpm,energy,valence,instrumentalness
+001,S001,Moonlit Waltz,Artist A,Classical,92,0.42,0.30,0.98
+002,S002,Dark Ballroom,Artist B,Classical,108,0.66,0.24,0.95
+003,S003,Silent Forest,Artist C,Ambient,70,0.25,0.18,1.00
+004,S004,Midnight Rain,Artist D,Ambient,80,0.32,0.35,0.90
+005,S005,Velvet Shadows,Artist E,Soundtrack,115,0.58,0.28,0.96
+006,S006,Silver Strings,Artist F,Soundtrack,100,0.48,0.45,0.88
+007,S007,Crimson Waltz,Artist G,Classical,130,0.72,0.40,0.92
+008,S008,Echoes of Winter,Artist H,Ambient,65,0.20,0.15,0.99
+009,S009,Clockwork Dreams,Artist I,Soundtrack,124,0.75,0.55,0.82
+010,S010,,Artist J,Ambient,75,0.30,0.20,0.95
+011,S011,Broken Tempo,Artist K,Soundtrack,350,0.50,0.40,0.85
+012,S012,Velvet Shadows,Artist E,Soundtrack,115,0.58,0.28,0.96
